@@ -81,23 +81,18 @@
 ## <b>Academic Activities & Certificates</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="35" />
 <ul>
   <li>
-    <a href="./Angie_Aguilar-CERTIFICADO.pdf">
-      <img src="https://img.shields.io/badge/COMPDES%202025-Participation-0A66C2?style=flat-square" alt="COMPDES 2025 Participation" />
+    <a href="./assets/certificates/Angie Aguilar-CERTIFICADO.pdf">
+      <img src="https://img.shields.io/badge/COMPDES%202025-Participant-0A66C2?style=flat-square" alt="COMPDES 2025 — Participant">
     </a>
-    <span> — 18th Computing for Development Congress (Guatemala) — Participant.</span>
+    <span> — 18th Congress on Computing for Development (Guatemala) — Participant.</span>
   </li>
   <li>
-    <a href="./Fundamentos%20de%20Servicios%20Web_08%20Angie%20Melissa%20Aguilar%20Alem%C3%A1n.pdf">
-      <img src="https://img.shields.io/badge/K--Lab%20Costa%20Rica-Web%20Services%20Fundamentals-0A66C2?style=flat-square" alt="K-Lab Course Certificate" />
+    <a href="./assets/certificates/Fundamentos de Servicios Web_08 Angie Melissa Aguilar Alemán.pdf">
+      <img src="https://img.shields.io/badge/Web%20Services%20Fundamentals-Certificate-0A66C2?style=flat-square" alt="Web Services Fundamentals — Certificate">
     </a>
-    <span> — Course “Web Services Fundamentals: Build Your Mini Social Network” (48 hours), Tecnológico de Costa Rica (TEC) & Myongji College.</span>
+    <span> — “Web Services Fundamentals: Build Your Mini Social Network” (48 hours), Tecnológico de Costa Rica (TEC) & Myongji College.</span>
   </li>
 </ul>
-
-<!-- Sugerencia: renombra los PDFs sin espacios para URLs más limpias, por ejemplo:
-./COMPDES2025_AngieAguilar.pdf   y   ./KLab_WebServices_AngieAguilar.pdf
-y actualiza los href arriba.
--->
 
 <br>
 
