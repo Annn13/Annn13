@@ -8,10 +8,16 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"></picture> <b>About me</b>
+## <b>About me</b>
 
 <picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250">
+  <img
+    align="right"
+    src="./assets/foto.png"
+    width="250"
+    alt="Angie Aguilar — profile photo"
+    style="border-radius:12px; margin-left:16px;"
+  >
 </picture>
 
 - Computer Engineering student at the **Costa Rica Institute of Technology (TEC)**  
