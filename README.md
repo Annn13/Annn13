@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Computer+Engineering+Student;Academic+Exchange+Candidate;Active+Learner%2FResearcher">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Computer+Engineering+Student;Active+Learner%2FResearcher">
   </a>
 </p>
 
@@ -23,7 +23,6 @@
 - Computer Engineering student at the **Costa Rica Institute of Technology (TEC)**  
 - Passionate about **software engineering**, **web platforms**, and **interactive systems (Unity/VR)**  
 - Currently contributing to university/community projects  
-- Seeking an **academic exchange** to strengthen research and project experience in an international setting
 
 <p>
   
