@@ -13,7 +13,7 @@
 <picture>
   <img
     align="right"
-    src="./assets/foto.png"
+    src=""
     width="250"
     alt="Angie Aguilar — profile photo"
     style="border-radius:12px; margin-left:16px;"
