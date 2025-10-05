@@ -26,15 +26,9 @@
 - Seeking an **academic exchange** to strengthen research and project experience in an international setting
 
 <p>
-  <!-- CV + LinkedIn badges -->
+  
   <a href="./Angie_Aguilar_CV.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
-  </a>
-  <a href="https://www.linkedin.com/in/angie-aguilar-398a14371/" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:a.aguilar.5@estudiantec.cr">
-    <img src="https://img.shields.io/badge/Email-a.aguilar.5%40estudiantec.cr-EB4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
