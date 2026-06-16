@@ -20,11 +20,6 @@
 
 ## <b>Skills</b>
 
-## 🧩 Projects
-
-- [Proyecto por hacer :)](https://github.com/Ann13/NOMBRE-DEL-REPO)
-
-
 <br>
 
 <p align="center">
