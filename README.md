@@ -18,7 +18,7 @@
 
 <br>
 
-## <b>Skills</b>
+## 🛠️ <b>Skills</b>
 
 <br>
 
