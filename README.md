@@ -1,9 +1,4 @@
-<h1 align="left">
-  <b>Hi, I'm Angie</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
-## <b>About me</b>
+## 💫 <b>About me</b>
 
 - Computer Engineering student at the **Costa Rica Institute of Technology (TEC)**  
 - Passionate about **software engineering**, **web platforms**, and **interactive systems (Unity/VR)**  
