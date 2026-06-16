@@ -55,7 +55,7 @@
 
 <br><br>
 
-## <b>Academic Activities & Certificates</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="35" />
+## 🎓 <b>Academic Activities & Certificates</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="35" />
 <ul>
   <li>
     <a href="./assets/certificates/Angie Aguilar-CERTIFICADO.pdf">
@@ -73,13 +73,13 @@
 
 <br>
 
-## <b>Interests</b>
+## 🌱 <b>Interests</b>
 - Software engineering (Java/Python/Go)
 - Web platforms (HTML/CSS/JS)
 - Interactive systems & prototyping (Unity/VR)
 
 <br>
 
-## <b>Contact</b>
+## 🌐 <b>Contact</b>
 - Email: <a href="mailto:a.aguilar.5@estudiantec.cr">a.aguilar.5@estudiantec.cr</a>  
 - LinkedIn: <a href="https://www.linkedin.com/in/angie-aguilar-398a14371/">linkedin.com/in/angie-aguilar-398a14371</a>
