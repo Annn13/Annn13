@@ -6,7 +6,7 @@
 
 <p>
   <a href="./Angie_Aguilar_CV.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
   </a>
 </p>
 
