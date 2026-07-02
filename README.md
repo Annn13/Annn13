@@ -74,9 +74,9 @@
 <br>
 
 ## 🌱 <b>Interests</b>
-- Software engineering (Java/Python/Go)
-- Web platforms (HTML/CSS/JS)
-- Interactive systems & prototyping (Unity/VR)
+- Data Engineering: diseño de pipelines ETL/ELT
+- Análisis de datos con Python
+
 
 <br>
 
