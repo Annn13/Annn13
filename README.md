@@ -14,7 +14,7 @@
 
 ## 🧩 Projects
 
-- [Analisis de Datos](https://github.com/SharonBlanco/Proyecto_Analisis_De_Datos_DATASET_FIFA)
+- [Proyecto de Analisis de Datos](https://github.com/SharonBlanco/Proyecto_Analisis_De_Datos_DATASET_FIFA)
 
 <br>
 
