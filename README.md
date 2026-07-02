@@ -14,7 +14,7 @@
 
 ## 🧩 Projects
 
-- - [Análisis de Datos y Machine Learning: Mercado de Jugadores FIFA (2015–2024)](https://github.com/SharonBlanco/Proyecto_Analisis_De_Datos_DATASET_FIFA)
+- [Análisis de Datos y Machine Learning: Mercado de Jugadores FIFA (2015–2024)](https://github.com/SharonBlanco/Proyecto_Analisis_De_Datos_DATASET_FIFA)
 
 <br>
 
